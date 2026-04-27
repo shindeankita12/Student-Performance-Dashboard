@@ -7,6 +7,9 @@ It analyzes student academic performance, attendance, and behavior across differ
 
 The goal is to transform raw data into meaningful insights using **data modeling, DAX, and visual storytelling**.
 
+ Dashboard Preview:---
+<img width="1309" height="731" alt="image" src="https://github.com/user-attachments/assets/039183aa-2751-43bf-9d9c-272d2381a4b3" />
+
  Dataset Description:--
 
 The project uses four datasets:
