@@ -45,23 +45,23 @@ The project uses four datasets:
 
  Dashboard Features:---
 
-### 🔹 Academic Analysis
+###  Academic Analysis
 
 * Bar Chart: Average Score by Subject & Class
 * Line Chart: Performance Trend by Term
 
-### 🔹 Behavioral Insights
+###  Behavioral Insights
 
 * Donut Chart: Behavior Type Distribution
 
-### 🔹 Student-Level Data
+### Student-Level Data
 
 * Table with conditional formatting:
 
   * Green → High scores (>80%)
   * Red → Low scores (<40%)
 
-### 🔹 KPIs
+### KPIs
 
 * Total Students
 * Average Score
